@@ -1,6 +1,5 @@
 # Carousel
 Interactive carousel of icons, an element designed to be used in different ways within a website
-Claro, aqui está a explicação do código em formato Markdown:
 
 ## Explicação do Código JavaScript para um Carousel Infinito
 
